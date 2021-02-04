@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = "https://www.robertcmckee.com/hugo_website/"
 languageCode = "en-us"
 title = "Hugrid - Grid Theme For Hugo"
 theme = "hugrid"
